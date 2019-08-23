@@ -2346,8 +2346,6 @@ classes:
             description: 24014 individuals in gnomad set
     slots:
       - frequency qualifier
-    slots:
-      - frequency qualifier
 
   - name: population to population association
     description: >-
