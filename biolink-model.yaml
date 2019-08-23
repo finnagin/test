@@ -21,14 +21,6 @@ default_curi_maps:
   - idot_context
   - semweb_context
 
-emit_prefixes:
-  - rdf
-  - rdfs
-  - xsd
-  - skos
-  - OIO
-  - BIOGRID
-
 subsets:
   translator_minimal:
     description: Minimum subset of translator work
